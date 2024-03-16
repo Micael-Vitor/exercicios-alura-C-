@@ -1,0 +1,14 @@
+C:\Users\micae\OneDrive\Documentos\Alura\C#\exercicios\bin\Debug\net9.0\exercicios.exe
+C:\Users\micae\OneDrive\Documentos\Alura\C#\exercicios\bin\Debug\net9.0\exercicios.deps.json
+C:\Users\micae\OneDrive\Documentos\Alura\C#\exercicios\bin\Debug\net9.0\exercicios.runtimeconfig.json
+C:\Users\micae\OneDrive\Documentos\Alura\C#\exercicios\bin\Debug\net9.0\exercicios.dll
+C:\Users\micae\OneDrive\Documentos\Alura\C#\exercicios\bin\Debug\net9.0\exercicios.pdb
+C:\Users\micae\OneDrive\Documentos\Alura\C#\exercicios\obj\Debug\net9.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micae\OneDrive\Documentos\Alura\C#\exercicios\obj\Debug\net9.0\exercicios.AssemblyInfoInputs.cache
+C:\Users\micae\OneDrive\Documentos\Alura\C#\exercicios\obj\Debug\net9.0\exercicios.AssemblyInfo.cs
+C:\Users\micae\OneDrive\Documentos\Alura\C#\exercicios\obj\Debug\net9.0\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\micae\OneDrive\Documentos\Alura\C#\exercicios\obj\Debug\net9.0\exercicios.dll
+C:\Users\micae\OneDrive\Documentos\Alura\C#\exercicios\obj\Debug\net9.0\refint\exercicios.dll
+C:\Users\micae\OneDrive\Documentos\Alura\C#\exercicios\obj\Debug\net9.0\exercicios.pdb
+C:\Users\micae\OneDrive\Documentos\Alura\C#\exercicios\obj\Debug\net9.0\exercicios.genruntimeconfig.cache
+C:\Users\micae\OneDrive\Documentos\Alura\C#\exercicios\obj\Debug\net9.0\ref\exercicios.dll
